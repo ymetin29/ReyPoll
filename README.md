@@ -1,4 +1,4 @@
-# poll
+# ReyPoll
 
 A new Flutter project.
 
